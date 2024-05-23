@@ -1,21 +1,6 @@
-# Node Vision
+# Image Vision
 
 This is a ExpressJS application that provides the framework on top of which you can implement multiple backends to detect labels in images.
-
-## What is the purpose of this exercise?
-
-The purpose of this exercise is to assess the following,
-  * ability to work with an existing code
-  * integrate new backends to existing code
-  * attention to detail
-  * code quality
-  * error handling
-
-## What you will be implementing?
-
-You will be implementing a backend to detect label in images using *AWS Rekognition* API. You will be shared temporary AWS access keys for authenticating with the Rekognintion API.
-
-*Optionally*, you can implement any *additional* backends of your choice, for example *Google Vision*.
 
 ## How to run the code
 
